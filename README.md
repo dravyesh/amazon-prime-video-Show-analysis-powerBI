@@ -23,6 +23,9 @@ This project highlights strong skills in Power BI, data transformation, analysis
 
 3) Explore dashboards and interact with filters, slicers, and drill-through pages.
 
+# Images
+<img src="images/overview.png" width="400"/>
+
 🧑‍💻 Author
 
 Dravyesh Upadhyay
