@@ -25,10 +25,11 @@ This project highlights strong skills in Power BI, data transformation, analysis
 
 # Images
 <img src="images/overview.png" width="400"/>
+<img src="images/content-analysis.png" width="400"/>
+<img src="images/insights.png" width="400"/>
+<img src="images/ratings.png" width="400"/>
 
-🧑‍💻 Author
+## Created by 
 
 Dravyesh Upadhyay
-
 Data Analyst | Power BI | SQL | Python
-[]
